@@ -1,4 +1,7 @@
 # Pagination
+![image](https://github.com/ugoem/alx-backend/assets/24642339/defde9ad-6f61-40ac-8abd-364060863493)
+![image](https://github.com/ugoem/alx-backend/assets/24642339/2423fbf0-d2c7-4042-9cde-ce6a09daa88f)
+![image](https://github.com/ugoem/alx-backend/assets/24642339/ed584d07-3488-46e4-8baa-ae9bde8cf572)
 
 # Resources
 Read or watch:
