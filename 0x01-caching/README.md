@@ -1,5 +1,7 @@
 # Caching
 
+![image](https://github.com/ugoem/alx-backend/assets/24642339/ca4a1c1a-eadc-49a5-a104-4ffe1bb981cd)
+
 ## Background Context
 In this project, you learn different caching algorithms.
 
